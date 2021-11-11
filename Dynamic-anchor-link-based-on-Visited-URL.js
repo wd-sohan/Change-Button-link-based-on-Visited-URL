@@ -1,6 +1,5 @@
 <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
 
-<script>
 $(document).ready(function() {
     var url = window.location.href;
     var storeUrl = url.indexOf('ebersberg');
@@ -15,4 +14,4 @@ $(document).ready(function() {
     }
   
 });
-</script>
+
